@@ -2,19 +2,21 @@
 
 A Flutter-based Hangman game.  
 
-##📸 Screenshots
+## 📸 Screenshots
 
 Home Screen
+
 ![Home Screen](screenshots/home.png)
 
 
 Gameplay
+
 ![Game Screen](screenshots/game.png) 
 
 
 
 
-##✨ Features
+## ✨ Features
 
 🔀 Random word selection for endless fun
 
@@ -22,7 +24,7 @@ Gameplay
 
 📊 Score tracking to challenge yourself
 
-##📥 Installation
+## 📥 Installation
 
 Ready to play? Follow these steps:
 
