@@ -22,28 +22,27 @@ Built for smooth animations, a responsive UI, and an engaging experience.
 ## 📥 Installation
 Ready to play? Follow these steps:
 
-###  Clone the repository
+###  1️⃣ Clone the repository 
 ```sh
 git clone https://github.com/Roshan-Francis/hangman.git
 ```
-###  Navigate to the project directory 
+### 2️⃣ Navigate to the project directory
 ```sh
 cd hangman
 ```
-###  Install dependencies
+###  3️⃣ Install dependencies
 ```sh
 flutter pub get
 ```
-###  Run the app
+### 4️⃣ Run the application
 ```sh
 flutter run
 ```
 ### 🎯 How to Play
-
-The game randomly picks a word.
-Guess one letter at a time.
-Every wrong guess brings you closer to losing.
-Solve the word before you run out of attempts!
+1️⃣ The game selects a random word.
+2️⃣ Guess one letter at a time.
+3️⃣ Incorrect guesses reduce your attempts.
+4️⃣ Solve the word before running out of tries!
 
 ### 🛠️ Technologies Used
 Flutter 🦋
