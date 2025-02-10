@@ -44,7 +44,7 @@ Fire up the game:
 
 flutter run
 
-🎯 How to Play
+## 🎯 How to Play
 
 The game randomly picks a word.
 
@@ -54,7 +54,7 @@ Every wrong guess brings you closer to losing.
 
 Solve the word before you run out of attempts!
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Flutter 🦋
 
