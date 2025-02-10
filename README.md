@@ -40,10 +40,10 @@ flutter run
 ```
 ### 🎯 How to Play
 
-1️⃣ The game selects a random word.
-2️⃣ Guess one letter at a time.
-3️⃣ Incorrect guesses reduce your attempts.
-4️⃣ Solve the word before running out of tries!
+1️⃣ The game selects a random word.<br />
+2️⃣ Guess one letter at a time.<br />
+3️⃣ Incorrect guesses reduce your attempts.<br />
+4️⃣ Solve the word before running out of tries!<br />
 
 ### 🛠️ Technologies Used
 Flutter 🦋
