@@ -46,5 +46,5 @@ flutter run
 4️⃣ Solve the word before running out of tries!<br />
 
 ### 🛠️ Technologies Used
-Flutter 🦋
+Flutter 🦋<br />
 Dart 🎯
