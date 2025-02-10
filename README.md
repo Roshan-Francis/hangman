@@ -8,9 +8,8 @@
 ![Gameplay](screenshots/game.png)
 
 ## 🚀 About the Project
-Hangman is a timeless word-guessing game, now reimagined with the power of Flutter!  
-Guess letters, avoid the gallows, and have fun while sharpening your vocabulary skills!  
-Built for smooth animations, a responsive UI, and an engaging experience.
+
+A classic Hangman game built with Flutter
 
 ## ✨ Features
 - 🏆 Multiple difficulty levels  
