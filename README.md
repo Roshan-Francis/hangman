@@ -39,6 +39,7 @@ flutter pub get
 flutter run
 ```
 ### 🎯 How to Play
+
 1️⃣ The game selects a random word.
 2️⃣ Guess one letter at a time.
 3️⃣ Incorrect guesses reduce your attempts.
