@@ -23,7 +23,7 @@ Built for smooth animations, a responsive UI, and an engaging experience.
 Ready to play? Follow these steps:
 
 ###  Clone the repository
-
+```sh
 git clone https://github.com/Roshan-Francis/hangman.git
 
 ###  Navigate to the project directory 
