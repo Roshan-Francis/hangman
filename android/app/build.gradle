@@ -1,0 +1,40 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id 'dev.flutter.flutter-gradle-plugin'
+}
+
+android {
+    namespace = "com.example.hangman"  // Change to your app's package name
+    compileSdk = flutter.compileSdkVersion  // Using Flutter's compile SDK version
+    ndkVersion = flutter.ndkVersion  // Set to Flutter's NDK version
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8  // Set Java compatibility to 1.8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8  // Set Kotlin JVM target to 1.8
+    }
+
+    defaultConfig {
+        applicationId = "com.example.hangman"  // Unique Application ID
+        minSdk = flutter.minSdkVersion  // Set minimum SDK version as defined in Flutter
+        targetSdk = flutter.targetSdkVersion  // Target SDK version as defined in Flutter
+        versionCode = flutter.versionCode  // Version code (defined in Flutter)
+        versionName = flutter.versionName  // Version name (defined in Flutter)
+    }
+
+    buildTypes {
+        release {
+            // Signing configuration for release build (debug key for now)
+            signingConfig = signingConfigs.debug  // Use your release signing key here
+        }
+    }
+}
+
+flutter {
+    source = "../.."  // Path to your Flutter SDK
+}
