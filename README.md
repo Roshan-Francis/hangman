@@ -12,7 +12,6 @@
 A classic Hangman game built with Flutter
 
 ## ✨ Features
-- 🏆 Multiple difficulty levels  
 - 🎨 Beautiful, responsive UI  
 - 🔀 Random word selection for endless fun  
 - ⚡ Smooth animations and user-friendly interactions  
