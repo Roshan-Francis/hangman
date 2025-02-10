@@ -25,17 +25,19 @@ Ready to play? Follow these steps:
 ###  Clone the repository
 ```sh
 git clone https://github.com/Roshan-Francis/hangman.git
-
+```
 ###  Navigate to the project directory 
-
+```sh
 cd hangman
-
+```
 ###  Install dependencies
-
+```sh
 flutter pub get
+```
 ###  Run the app
+```sh
 flutter run
-
+```
 ### 🎯 How to Play
 
 The game randomly picks a word.
