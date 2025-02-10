@@ -11,4 +11,3 @@ A Flutter-based Hangman game.
 - Simple and fun gameplay  
 - Random word generation  
 
-## 📦 Installation  
